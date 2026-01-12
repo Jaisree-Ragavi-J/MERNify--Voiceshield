@@ -130,23 +130,24 @@ http://localhost:5173
 * Voice-based authentication testing
 ---
 ## 📌 Future Enhancements
-
 * ML-based spoof classification models
 * Teacher/Admin dashboard
 * Voice-based video controls for ViBe platform
 * Ambient mode
-
 ---
 ## 📄 License
 This project is for academic and research purposes.
 Feel free to fork and extend with proper attribution.
-
 ---
 ## Team Members
-*1 ) Jaisree Ragavi J
-*2 ) Divya Chhabra
-*3 ) Sruthi S
-*4 ) Ritesh Kumar Agarwal
+```
+* Jaisree Ragavi J
+* Divya Chhabra
+* Sruthi S
+* Ritesh Kumar Agarwal
+
+```
+---
 
 
 

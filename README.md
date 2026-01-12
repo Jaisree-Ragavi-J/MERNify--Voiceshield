@@ -143,10 +143,10 @@ Feel free to fork and extend with proper attribution.
 
 ---
 ## Team Members
-Jaisree Ragavi J
-Divya Chhabra
-Sruthi S
-Ritesh Kumar Agarwal
+*1 ) Jaisree Ragavi J
+*2 ) Divya Chhabra
+*3 ) Sruthi S
+*4 ) Ritesh Kumar Agarwal
 
 
 

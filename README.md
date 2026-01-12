@@ -114,7 +114,6 @@ WIN3 VoiceShield – The Truth in Your Voice
 ## ▶️ Running the Project
 ### Setup
 ```bash
-cd frontend
 npm install
 npm run dev
 ```
